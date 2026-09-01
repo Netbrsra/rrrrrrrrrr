@@ -1,0 +1,11 @@
+AUTOMATIC MINER - VERSAO REFEITA
+
+Esta versão corrige a estrutura do inventário e melhora a interface:
+- área de combustível separada;
+- área de itens minerados separada;
+- botões Iniciar/Parar, Reto/Baixo e Trilho;
+- quantidade ajustável;
+- proteção contra buraco: tenta colocar pedregulho ou pedra antes de avançar.
+
+IMPORTANTE:
+Extraia e envie o conteúdo desta pasta para a raiz do repositório GitHub, depois rode o workflow.
